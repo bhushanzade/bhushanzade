@@ -195,4 +195,5 @@ I have created and published several Angular-based NPM libraries to simplify dev
   npm install window-modal-dialog
   ```
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygIAHpd-8wF2kJJNUvFqjhwpA_JKUFfKTHg&s
+
+  
