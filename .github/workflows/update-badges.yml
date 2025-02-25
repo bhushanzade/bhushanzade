@@ -13,4 +13,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
+          CREDLY_USER: bhushan-zade.a38bf275
           CREDLY_SORT: POPULAR
