@@ -62,7 +62,7 @@ I am proficient in JavaScript, Angular, React, Next.js, and a variety of fronten
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushanzade&show_icons=true&theme=dracula)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhushanzade&theme=dracula)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=bhushanzade&theme=merko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanzade&theme=dracula)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhushanzade&theme=react-dark)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhushanzade&theme=dracula)
@@ -195,4 +195,4 @@ I have created and published several Angular-based NPM libraries to simplify dev
   npm install window-modal-dialog
   ```
 
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygIAHpd-8wF2kJJNUvFqjhwpA_JKUFfKTHg&s
