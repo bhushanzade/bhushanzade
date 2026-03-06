@@ -71,15 +71,6 @@ I am proficient in JavaScript, Angular, React, Next.js, and a variety of fronten
 <a href="https://app.daily.dev/bhushanzade"><img src="https://api.daily.dev/devcards/v2/RPz4oZlFKvCxrdRrSZtOB.png?r=rdx&type=wide" width="652" alt="Bhushan zade's Dev Card"/></a>
 
 ---
-
-## LinkedIn Profile
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="bhushanzade" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhushanzade?trk=profile-badge">Bhushan Zade</a></div>
-```
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-```
----
-
 ## 🌟 Badges
 
 <!--START_SECTION:badges-->
