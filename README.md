@@ -17,9 +17,9 @@ I am proficient in JavaScript, Angular, React, Next.js, and a variety of fronten
 ## Connect with Me
 
 <p align="left">
-  <a href="https://github.com/bhushanzade" target="_blank"><img src="https://img.icons8.com/material-outlined/48/ffffff/github.png" alt="GitHub" height="40"/></a>
-  <a href="https://dev.to/bhushanzade" target="_blank"><img src="https://img.icons8.com/windows/48/ffffff/dev.png" alt="Dev" height="40"/></a>
-  <a href="https://www.linkedin.com/in/bhushanzade/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn" height="40"/></a>
+  <a href="https://github.com/bhushanzade" target="_blank"><img src="https://img.icons8.com/material-outlined/48/auto/github.png" alt="GitHub" height="40"/></a>
+  <a href="https://dev.to/bhushanzade" target="_blank"><img src="https://img.icons8.com/windows/48/auto/dev.png" alt="Dev" height="40"/></a>
+  <a href="https://www.linkedin.com/in/bhushanzade/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/auto/linkedin.png" alt="LinkedIn" height="40"/></a>
   <a href="https://stackoverflow.com/users/11324221/bhushan" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="40"/></a>
   <a href="https://www.instagram.com/bhushan.zade/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/415/large_2x/instagram-logo-instagram-icon-transparent-free-png.png" alt="Threads" height="40"/></a>
   <a href="[https://www.instagram.com/bhushan.zade/](https://www.npmjs.com/~bhushanzade)" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTygIAHpd-8wF2kJJNUvFqjhwpA_JKUFfKTHg&s" alt="Threads" height="40"/></a>
@@ -69,6 +69,12 @@ I am proficient in JavaScript, Angular, React, Next.js, and a variety of fronten
 ## Daily.Dev Stats
 
 <a href="https://app.daily.dev/bhushanzade"><img src="https://api.daily.dev/devcards/v2/RPz4oZlFKvCxrdRrSZtOB.png?r=rdx&type=wide" width="652" alt="Bhushan zade's Dev Card"/></a>
+
+---
+
+## LinkedIn Profile
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="bhushanzade" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhushanzade?trk=profile-badge">Bhushan Zade</a></div>
 
 ---
 
