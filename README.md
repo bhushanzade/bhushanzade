@@ -9,6 +9,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/bhushanzade?label=GitHub%20followers)
 
 [![Developer Status](https://playboxjs.com/github-developer-status.php?text=%F0%9F%9A%80%20Shipping%20Code&color=emerald)](https://playboxjs.com/tools/github/developer-status)
+[![Deep Work](https://playboxjs.com/github-developer-status.php?text=%F0%9F%A7%A0%20Deep%20Work&color=indigo)](https://playboxjs.com/tools/github/developer-status)
+
 
 ## About Me
 
