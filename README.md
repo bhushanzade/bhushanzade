@@ -8,6 +8,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/bhushanzade?label=GitHub%20followers)
 
+[![Developer Status](https://playboxjs.com/github-developer-status.php?text=%F0%9F%9A%80%20Shipping%20Code&color=emerald)](https://playboxjs.com/tools/github/developer-status)
+
 ## About Me
 
 I am proficient in JavaScript, Angular, React, Next.js, and a variety of frontend tools. Also skilled in the full-Stack. Committed to crafting clean, efficient code and driving innovation in every project. Passionate about collaborating with dynamic teams to create impactful solutions and continuously advancing in the field of fullstack development.
