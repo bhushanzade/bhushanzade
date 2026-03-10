@@ -59,6 +59,12 @@ I am proficient in JavaScript, Angular, React, Next.js, and a variety of fronten
 
 ---
 
+## Tech Stack Visibility
+
+[![bhushanzade's Tech Stack Vitality](https://playboxjs.com/api/v1/github/skills.php?user=bhushanzade&threshold=365&theme=dark&hide=xslt,svelte,mdx,java,python,shell&limit=13&token=enc_S_ApFAJevi7sJWWDyNxDRWZOZHlMU1VwN0ZXRWM3TFoyaldLV242V056K01JU2s1NUc4NjF6MEFRZ1FOdk5wMGVXOFFEbVpQN0NsSmdlazM)](https://playboxjs.com/tools/github/skill-tracker/)
+
+---
+
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushanzade&show_icons=true&theme=dracula)
